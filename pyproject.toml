@@ -1,0 +1,9 @@
+[project]
+name = "mcblocktracker"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "mcstructure>=0.0.1b6",
+]
